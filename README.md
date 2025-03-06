@@ -6,6 +6,10 @@
 - next, next, finish
 - cat /path/id_rsa.pub
 
+
+## Clone repo
+- git clone <path-repo>
+
 ## Autor 
 Nome: Eduardo-Ferreira
 Turma: A
